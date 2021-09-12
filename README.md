@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dashasandler
 - 👀 I’m interested in QA Automation
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning JS and Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
